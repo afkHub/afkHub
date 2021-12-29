@@ -40,12 +40,16 @@
 
 ## Contact
 > [![linkedIn][1]][2]
-> [![telegram][3]][4]
+> [![hackerRank][3]][4]
+> [![telegram][5]][6]
+
 
 [1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [2]: https://www.linkedin.com/in/firatkaraoglu/ "Redirect to my LinkedIn account"
-[3]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-[4]: https://t.me/karaogluu "Redirect to my Telegram account"
+[5]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+[6]: https://t.me/karaogluu "Redirect to my Telegram account"
+[3]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
+[4]: https://www.hackerrank.com/afkHub "Redirect to my HackerRank account" 
 
 <!--
 ### Hi there 👋
