@@ -40,11 +40,12 @@
 
 ## Contact
 > [![linkedIn][1]][2]
-![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+> [![telegram][3]][4]
 
-[1]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[2]:  https://www.linkedin.com/in/firatkaraoglu/ "Redirect to my LinkedIn account"
-
+[1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[2]: https://www.linkedin.com/in/firatkaraoglu/ "Redirect to my LinkedIn account"
+[3]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+[4]: https://t.me/karaogluu "Redirect to my Telegram account"
 
 <!--
 ### Hi there 👋
